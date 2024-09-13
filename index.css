@@ -7,8 +7,10 @@ body {
     box-sizing: border-box;
 }
 
-.header img{
+img{
     width: 20px;
+    padding: 0px;
+    margin: 0px;
 }
 
 
