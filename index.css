@@ -1,6 +1,6 @@
 body {
-    background: rgb(162,0,161);
-    background: linear-gradient(90deg, rgba(162,0,161,1) 0%, rgba(251,171,0,1) 100%);
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(43,251,0,1) 100%);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0%;
@@ -15,7 +15,7 @@ body {
 
 
 .header {
-    background-color: #333;
+
     overflow: hidden;
 }
 .header a {
@@ -27,6 +27,6 @@ body {
     text-decoration: none;
 }
 .header a:hover {
-    background-color: blueviolet;
+    background-color: green;
     color: black;
 }
