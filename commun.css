@@ -9,7 +9,7 @@ body {
 }
 
 .header img{
-    width: 20px;
+    width: 10px;
 }
 
 
@@ -20,7 +20,7 @@ body {
 .header a {
     float: left;
     display: block;
-    color:black;
+    color: black;
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
