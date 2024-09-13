@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0%;
     box-sizing: border-box;
+    color: black;
 }
 
 .header img{
@@ -19,7 +20,7 @@ body {
 .header a {
     float: left;
     display: block;
-    color: black;
+    color:black;
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
@@ -27,17 +28,4 @@ body {
 .header a:hover {
     background-color: green;
     color: black;
-}
-.hero{
-    background-image: url("./assets/carte.png");
-	background-position: center;
-	background-size: cover;
-	min-height: 100dvh;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	color: white;
-	padding: 1em;
-
 }
